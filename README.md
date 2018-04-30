@@ -1,2 +1,5 @@
 # Array-Subtration
-Subtract the elements of the array
+
+CSCI 4720 - Computer Architecture and Organization
+
+Subtract the elements of the array and display the results
